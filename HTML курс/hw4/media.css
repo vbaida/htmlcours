@@ -24,9 +24,22 @@ margin: 20px;
     align-items: center;
 }
 .others_products {
-    height: 3000px;
+    height: 2000px;
 }
 .main-finish {
     flex-wrap: wrap;
+}
+.contakt {
+    width: 350px;
+
+}
+.areal {
+    width: 350px;
+    }
+.head {
+    margin-left: 30px;
+}
+.head_nnn {
+    margin-left: 30px;
 }
 }
