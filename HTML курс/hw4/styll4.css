@@ -166,7 +166,7 @@ padding: 20px;
 }
 .others_products {
     background-color: var(--grey);
-    height: 800px;
+    height: 1200px;
     display: flex;
     flex-wrap: wrap;
     align-content: flex-start;
@@ -257,4 +257,88 @@ height: 30px;
     width: 20px;
     margin-left: 5px;
     border-radius: 5px;
+}
+.main-finish {
+    display: flex;
+    padding: 80px;
+}
+.areal {
+    background-color: var(--blue);
+    width: 500px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+.head1 {
+    margin: 10px;
+    margin-left: 80px;
+    }
+.head {
+    margin: 10px;
+    margin-left: 80px;
+    color: var(--aqua);
+    }
+
+.main-finish .areal button {
+    width: 140px;
+    height: 40px;
+    background-color: var(--aqua);
+    color: #CCD7E4;
+    border-radius: 20px;
+    cursor: pointer;
+     margin: 20px;
+    margin-left: 105px;
+}
+.main-finish .contakt button {
+    width: 140px;
+    height: 40px;
+    background-color: var(--blue);
+    color: #CCD7E4;
+    border-radius: 20px;
+    cursor: pointer;
+     margin: 20px;
+    margin-left: 105px;
+}
+.contakt {
+    background-color: var(--aqua);
+    width: 500px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+.end {
+    background-color: var(--blue);
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.ccc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.yyy {
+    background-color: var(--aqua);
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+    margin: 10px;
+}
+.aaa {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bbb {
+    background-color: var(--aqua);
+    width: 320px;
+    height: 5px;
+    border-radius: 5px;
+    margin: 10px;
 }
